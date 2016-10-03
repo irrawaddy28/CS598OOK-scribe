@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Dempster et~al.(1977)Dempster, Laird and Rubin}]{Dempster-EM}
+\textsc{Dempster, A.~P.}, \textsc{Laird, N.~M.} and \textsc{Rubin, D.} (1977).
+\newblock Maximum likelihood from incomplete data via the {EM} algorithm.
+\newblock \textit{{J}. {R}oyal {S}tat {S}ociety B.} \textbf{39} 1--38.
+
+\end{thebibliography}
